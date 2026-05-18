@@ -4,8 +4,7 @@ __pycache__/
 *.pyc
 
 # Local datasets
-small_flower_dataset/
-small_flower_dataset.zip
+small_flower_dataset
 
 # Model outputs
 *.h5
