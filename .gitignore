@@ -1,0 +1,19 @@
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local datasets
+small_flower_dataset/
+small_flower_dataset.zip
+
+# Model outputs
+*.h5
+*.keras
+*.pkl
+*.npy
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db
