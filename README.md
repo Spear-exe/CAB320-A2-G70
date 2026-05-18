@@ -13,7 +13,7 @@ The `main` branch contains the shared starter structure for the assignment. Each
 Canvas Group: **Group 70**
 
 | Member | Branch Name | 
-|---|---|---|
+|---|---|
 | Nour S | `nour-branch` | 
 | Josh G | `george-branch` | 
 | Josh O | `oates-branch` | 
