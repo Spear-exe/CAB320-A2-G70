@@ -31,7 +31,6 @@ The root folder contains the shared assignment materials and starter files:
 | `Shared Report.docx` | Shared working report / planning document |
 | `Work Breakdown.xlsx` | Task delegation, deadlines, contribution split, and progress tracking |
 | `small_flower_dataset.zip` | Original zipped dataset downloaded from Canvas |
-| `small_flower_dataset/` | Unzipped flower image dataset used by the notebook |
 | `CAB320-Assignment2-Learning.ipynb` | Empty starter Jupyter Notebook template for the group submission |
 
 ---
